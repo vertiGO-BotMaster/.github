@@ -1,10 +1,12 @@
-## Hi there 👋
+# Welcome to Connect 🚀
 
-**Here are some ideas to get you started:**
+We build seamless, high-performance digital experiences for mobile and the web.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🛠 Tech Stack & Expertise
+* **Native Android:** Kotlin, Jetpack Compose, Background Services
+* **Cross-Platform Mobile:** Capacitor, Hybrid Bridges
+* **Web Engineering:** React.js, Next.js, JavaScript/TypeScript
+
+### 👥 Founders
+* [@vertigo0628](https://github.com/vertigo0628)
+* [@Botmasterkenya](https://github.com/Botmasterkenya)
