@@ -1,4 +1,4 @@
-# Welcome to Connect 🚀
+# Welcome to Connect
 
 We build seamless, high-performance digital experiences for mobile and the web.
 
